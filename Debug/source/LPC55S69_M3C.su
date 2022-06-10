@@ -1,0 +1,5 @@
+/home/david/Documents/MCUXpresso_11.5.0_7232/workspace/LPC55S69_M3C/drivers/fsl_gpio.h:186:20:GPIO_PortSet	24	static
+/home/david/Documents/MCUXpresso_11.5.0_7232/workspace/LPC55S69_M3C/drivers/fsl_gpio.h:198:20:GPIO_PortClear	24	static
+../source/LPC55S69_M3C.c:62:5:main	16	static
+../source/LPC55S69_M3C.c:108:13:hello_task	24	static
+../source/LPC55S69_M3C.c:127:13:led_task	24	static
